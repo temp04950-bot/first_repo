@@ -2,3 +2,7 @@
 function bubbleSort(){
 
 }
+
+function quickSort(){
+    
+}
