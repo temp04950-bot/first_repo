@@ -28,3 +28,11 @@ To push the current branch and set the remote as upstream, use
 To have this happen automatically for branches without a tracking
 upstream, see 'push.autoSetupRemote' in 'git help config'.
 ```
+
+# after setting an upstream branch we can use "git push" directly to push the changes to remote repo
+
+
+# check for an upstream branch 
+```
+git branch -vv
+```
